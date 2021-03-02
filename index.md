@@ -3,6 +3,7 @@ title: Lancelot's Hangover
 keywords: lancelot, hangover
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
+hidden: true
 ---
 
 You play Lancelot, the sexiest Knight of the Round Table.
