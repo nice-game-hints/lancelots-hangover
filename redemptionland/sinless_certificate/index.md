@@ -18,7 +18,7 @@ Have you checked around? ^[ There is a help wanted sign in the Town. ]
 Lady Dark Dark would pay you £9,999 for getting rid of the rats. What a happy coincidence! ^[ Talk to her about everything. ]
 
 # Pan flute?
-Yup, you got it. [Build a pan flute.](pan_flute.md)
+Yup, you got it. [Build a pan flute.](pan_flute/index.md)
 
 # I have the pan flute
 Great, give it to that French Mime ^[ You have to talk to the mime about panflutes at least twice. Before that you have to talk to Lady Dark Dark about the panflute. ]. You now have enough money for the certificate.
