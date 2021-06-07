@@ -55,14 +55,17 @@
 	font-family: inherit;
 }
 
-#ngh-hint-card .card-header, #ngh-hint-card .card-header a:not(.badge), #ngh-guide-header, #ngh-subguides .card-title, #ngh-guide-body a:not(.btn), #ngh-guide-body a:not(.bmc-button):not(.btn), #ngh-subguides a, .popover-body a {
+#ngh-hint-card .card-header, #ngh-hint-card .card-header a:not(.badge), #ngh-guide-header, #ngh-subguides .card-title, #ngh-hint-card a:not(.btn), #ngh-hint-card a:not(.bmc-button):not(.btn), #ngh-subguides a, .popover-body a {
 	color: #ffbc72;
 	font-family: inherit;
     font-weight: bold;
 }
-#ngh-hint-card .card-header a:hover:not(.badge), #ngh-guide-body a:not(.btn):hover, #ngh-subguides a:hover, .popover-body a:hover {
+#ngh-hint-card .card-header a:hover:not(.badge), #ngh-hint-card a:not(.btn):hover, #ngh-subguides a:hover, .popover-body a:hover {
 	color: #ffbc72;
 	text-decoration: underline;
+}
+#ngh-guide-reset {
+	color: black !important;
 }
 
 #ngh-hint-card, #ngh-subguides {
@@ -72,13 +75,21 @@
 	background-color: #5f5f5f;
 }
 
-#ngh-subguides .list-group-item {
+#ngh-subguides .list-group-item, #ngh-hint-card .list-group-item {
+	background-color: #5f5f5f;
 	border-color: #ddd;
 }
 
-#ngh-guide-body {
+#ngh-hint-card .card-body  {
 	background-color: #5f5f5f;
 	color: #f1f1f1;
+}
+
+#ngh-scroll-instruction {
+	color: #f1f1f1;
+}
+
+#ngh-guide-body {
 	border-top-color: #ddd;
 	border-top-width: 2px;
 	border-top-style: solid;
