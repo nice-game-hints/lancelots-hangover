@@ -4,6 +4,7 @@ keywords: lancelot, hangover
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila, Buy me St. Crappix Chimay, 🍺
 released: 2021-03-03
+agdb: lancelots_hangover_the_quest_for_the_holy_booze
 ---
 
 You play Lancelot, the sexiest Knight of the Round Table.
